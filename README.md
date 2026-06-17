@@ -1,19 +1,34 @@
-#Система управления заказами на перевозку
+## Система управления заказами на перевозку
 
  
 
 
 ## 📸 Скриншоты
-!(/Screen/Screenshot_1.png)
-!(/Screen/Screenshot_2.png)
-!(/Screen/Screenshot_3.png)
-!(/Screen/Screenshot_4.png)
-!(/Screen/Screenshot_5.png)
-!(/Screen/Screenshot_6.png)
-!(/Screen/Screenshot_7.png)
-!(/Screen/Screenshot_8.png)
-!(/Screen/Screenshot_9.png)
-!(/Screen/Screenshot_10.png)
+
+<div align="center">
+  <img src="/Screen/Screenshot_1.png" alt="Вход" width="400"/>
+  <img src="/Screen/Screenshot_2.png" alt="Регистрация" width="400"/>
+</div>
+
+<div align="center">
+  <img src="/Screen/Screenshot_3.png" alt="Дашборд менеджера" width="400"/>
+  <img src="/Screen/Screenshot_10.png" alt="Дашборд водителя" width="400"/>
+</div>
+
+<div align="center">
+  <img src="/Screen/Screenshot_4.png" alt="Создание заказа" width="400"/>
+  <img src="/Screen/Screenshot_5.png" alt="Назначение водителя" width="400"/>
+</div>
+
+<div align="center">
+  <img src="/Screen/Screenshot_6.png" alt="Обновление статуса" width="400"/>
+  <img src="/Screen/Screenshot_7.png" alt="Отчет" width="400"/>
+</div>
+
+<div align="center">
+  <img src="/Screen/Screenshot_8.png" alt="Управление пользователями" width="400"/>
+  <img src="/Screen/Screenshot_9.png" alt="Подтверждение удаления" width="400"/>
+</div>
 
 ## ✨ Функциональные возможности
 
